@@ -1,13 +1,10 @@
-
-<html>
- <head>
-*-カラー-*
-.article td:first-child {
-background-color:transparent;
-}
- <title>・・・</title>
- </head>
- <body>
- <table boder=1><tr><th>なんて夜だ<br>突き放したのだ、僕を</br></th></tr></table>
- </body>
-</html
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <title>テストページ</title>
+  </head>
+  <body>
+    <p>なんて夜だ<br>突き放したのだ、僕を</br></p>
+  </body>
+</html>
