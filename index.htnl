@@ -1,0 +1,11 @@
+.article td:first-child {
+background-color:transparent;
+}
+<html>
+ <head>
+ ・・・
+ </head>
+ <body>
+ <table>なんて夜だ<br>突き放したのだ、僕を</table>
+ </body>
+</html
