@@ -1,9 +1,11 @@
+
+<html>
+ <head>
+*-カラー-*
 .article td:first-child {
 background-color:transparent;
 }
-<html>
- <head>
- ・・・
+ <title>・・・</title>
  </head>
  <body>
  <table boder=1><tr><th>なんて夜だ<br>突き放したのだ、僕を</br></th></tr></table>
