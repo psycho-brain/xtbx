@@ -6,6 +6,6 @@ background-color:transparent;
  ・・・
  </head>
  <body>
- <table boder=1><th>なんて夜だ<br>突き放したのだ、僕を</br></th></table>
+ <table boder=1><tr><th>なんて夜だ<br>突き放したのだ、僕を</br></th></tr></table>
  </body>
 </html
